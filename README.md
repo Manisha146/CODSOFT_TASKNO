@@ -12,7 +12,7 @@ A Java-based ATM application that simulates basic banking operations and provide
 -  Transaction Handling
 -  User Input Validation
 -  Menu-driven Interface
--  
+   
 **🛠️ Technologies:** Java, OOP
 ---
 
@@ -25,7 +25,7 @@ A Java-based quiz application that allows users to answer multiple-choice questi
 -  Score Calculation
 -  Final Result and Percentage
 -  Time-up Handling
--  
+  
 **🛠️ Technologies:** Java, OOP
 ---
 
