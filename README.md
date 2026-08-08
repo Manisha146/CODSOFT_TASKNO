@@ -1,32 +1,30 @@
-# ATM Interface
+# 🚀 CodSoft Java Development Internship
 
-## Project Description
-This is a Java-based ATM Interface project developed as part of the CodSoft Java Development Internship.
+This repository contains the Java projects developed during my Java Development Internship at CodSoft. These projects helped me gain hands-on experience in Java programming, OOP, problem-solving, and application development.
 
-The project simulates the basic functionality of an ATM machine.
+## 💻 Projects:-
 
-## Features
-- Deposit Money
-- Withdraw Money
-- Check Account Balance
-- User-Friendly Menu
-- Input Validation
+### 🏦 1. ATM Interface
+A Java-based ATM application that simulates basic banking operations and provides a simple console-based banking experience.
+**✨ Key Features:**
+-  Balance Inquiry
+-  Deposit and Withdrawal
+-  Transaction Handling
+-  User Input Validation
+-  Menu-driven Interface
+**🛠️ Technologies:** Java, OOP
+---
 
-## Technologies Used
-- Java
-- IntelliJ IDEA
-- Git
-- GitHub
+### 🧠 2. Quiz Application
+A Java-based quiz application that allows users to answer multiple-choice questions within a limited time and displays the final score.
+**✨ Key Features:**
+-  Multiple-choice Questions
+-  Timer-based Quiz
+-  Answer Validation
+-  Score Calculation
+-  Final Result and Percentage
+-  Time-up Handling
+**🛠️ Technologies:** Java, OOP
+---
 
-## How to Run
 
-1. Open the project in IntelliJ IDEA.
-2. Run `Main.java`.
-3. Choose an option from the ATM menu.
-4. Enjoy the project.
-
-## Author
-**Manisha Chahar**
-
-## Internship
-CodSoft Java Development Internship
